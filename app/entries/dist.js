@@ -6,7 +6,7 @@ import './dist.css';
 /**
  * Wrapper function for H5P functionality
  */
-H5P.SpeakTheWordsSet = (function (Question) {
+H5P.SpeakTheWordsSetIDO = (function (Question) {
   "use strict";
 
   /**
