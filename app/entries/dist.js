@@ -97,4 +97,4 @@ H5P.SpeakTheWordsSetIDO = (function (Question) {
   WrapperClass.prototype.constructor = WrapperClass;
 
   return WrapperClass;
-}(H5P.Question));
+}(H5P.QuestionIDO));

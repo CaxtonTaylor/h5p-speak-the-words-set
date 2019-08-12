@@ -49,7 +49,7 @@ export default class SolutionScreen extends React.Component {
    * @returns {XML}
    */
   render() {
-    const feedback = H5P.Question.determineOverallFeedback(
+    const feedback = H5P.QuestionIDO.determineOverallFeedback(
       this.props.parent.params.overallFeedback, this.props.currentScore / this.props.maxScore
     );
 
