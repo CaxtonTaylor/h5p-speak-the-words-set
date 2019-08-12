@@ -7,7 +7,7 @@ var H5PPresave = H5PPresave || {};
  * @param finished
  * @constructor
  */
-H5PPresave['H5P.SpeakTheWordsSet'] = function (content, finished) {
+H5PPresave['H5P.SpeakTheWordsSetIDO'] = function (content, finished) {
   var presave = H5PEditor.Presave;
   var score = 0;
 
